@@ -1,0 +1,21 @@
+.container{
+    
+    margin-top:40px;
+    
+}
+
+#msg_erro{
+    display:none;
+}
+
+#msg_sucesso{
+    display:none;
+}
+
+#class_div{
+    display: none;
+}
+
+.div_prod{
+    display: none;
+}
